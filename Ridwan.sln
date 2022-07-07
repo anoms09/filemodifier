@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ridwan.Service", "Ridwan.Service\Ridwan.Service.csproj", "{B8773975-B16B-457C-9E8A-442B1C25BAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8773975-B16B-457C-9E8A-442B1C25BAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8773975-B16B-457C-9E8A-442B1C25BAC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8773975-B16B-457C-9E8A-442B1C25BAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8773975-B16B-457C-9E8A-442B1C25BAC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98EC2D10-D648-4FAF-BE6D-A5DB2B8B68C1}
+	EndGlobalSection
+EndGlobal
